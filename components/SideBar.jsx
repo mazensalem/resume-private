@@ -1,12 +1,12 @@
 export default function SideBar() {
   return (
-    <aside className="float-left w-2/5 h-screen relative">
-      <div className="inline-block text-6xl absolute top-0 left-20">{`<`}</div>
-      <main className="inline-block relative top-80 left-36">
-        <h1 className="text-5xl">MAZEN SALEM</h1>
-        <p className="ml-20 text-lg">Front End Developer</p>
+    <aside className="float-none w-screen h-1/4 md:float-left md:w-2/5 md:h-screen flex items-center justify-between md:flex-col">
+      <div className="inline-block md:flex md:justify-start md:pl-10 md:w-full text-5xl md:text-6xl">{`<`}</div>
+      <main className="flex flex-col justify-center items-center">
+        <h1 className="text-3xl md:text-4xl lg:text-5xl">MAZEN SALEM</h1>
+        <p className="text-lg">Front End Developer</p>
       </main>
-      <div className="inline-block text-6xl absolute bottom-10 left-20">
+      <div className="overflow-y-hidden inline-block md:flex md:justify-end md:pr-10 md:w-full text-5xl md:text-6xl md:h-auto">
         /{`>`}
       </div>
     </aside>

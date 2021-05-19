@@ -4,7 +4,7 @@ import Section from "./Section";
 import Skills from "./Skills";
 export default function Main() {
   return (
-    <div className="w-2/4 h-screen float-right">
+    <div className="w-screen flex flex-col md:w-2/4 h-auto md:float-right">
       <Section
         title={"ALL ABOUT ME"}
         description={

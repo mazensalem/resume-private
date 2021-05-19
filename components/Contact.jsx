@@ -1,10 +1,10 @@
 export default function Contact() {
   return (
-    <div className="mt-5">
+    <div className="mt-10 md:mt-5 md:items-start flex flex-col items-center">
       <p className="inline-block text-lg font-medium tracking-widest">
-        <span className="mr-5">/</span> CONTACT DETALIS
+        / CONTACT DETALIS
       </p>
-      <main className="w-2/4 ml-10">
+      <main className="w-2/4 md:w-full md:text-left sm:text-center">
         <span>qallin, kafr ALshesk, EGYPT</span>
         <br />
         {`>>>`} salemmazen27@gmail.com
