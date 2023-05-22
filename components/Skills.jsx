@@ -13,12 +13,8 @@ export default function Skills() {
           <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">GIT</li>
           <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">TESTING</li>
           <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">GRAPHQL</li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">WORDPRESS</li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">
-            DATASTRUCTUR
-          </li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">ALGORITHMS</li>
-          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">DJANGO</li>
+          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">Tailwind css</li>
+          <li className="rounded-xl px-5 mb-1 mr-2 bg-gray-300">mongo dB</li>
         </ul>
       </main>
     </div>
