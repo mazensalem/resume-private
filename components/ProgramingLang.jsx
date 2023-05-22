@@ -21,12 +21,12 @@ export default function Section() {
             <Exper value={4} />
           </li>
           <li className="text-center md:text-left">
-            <span>SCSS</span>
+            <span>Tailwind Css</span>
             <Exper value={4} />
           </li>
           <li className="text-center md:text-left">
-            <span>PHP</span>
-            <Exper value={3} />
+            <span>GSAP animation</span>
+            <Exper value={4} />
           </li>
         </ul>
       </main>
