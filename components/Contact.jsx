@@ -11,7 +11,7 @@ export default function Contact() {
         <br />
         {`>>>`} salemmazen35@gmail.com
         <br />
-        <strong>mobile No.</strong> &nbsp;&nbsp;&nbsp; 01285301916
+        <strong>mobile No.</strong> &nbsp;&nbsp;&nbsp; +201092293184
       </main>
     </div>
   );
